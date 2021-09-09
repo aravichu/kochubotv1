@@ -4,13 +4,12 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}!!</b>
+    START_TEXT = """<b><u>Hey {} hey how are you !!</b></u>
 <i>Am Just A Advance Auto Filter Bot....😉
-
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+ nee vicharikunna polea ennea ninak ang edukkano patikano pattathilla kettoda potta💥
 
 For More Details Click Help Button Below..
-@CrazyBotsz
+@kochubotfun
 </i>"""    
     
     HELP_TEXT = """
@@ -48,7 +47,7 @@ For More Details Click Help Button Below..
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/@aravindachu43">aravind horza</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
